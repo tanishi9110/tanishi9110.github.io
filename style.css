@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#img{
+    width: 100%;
+    height: 100vh;
+    
+}
+
+.hyoushi{
+    position: relative;
+}
+
+.bottons{
+    width: 100%;
+    text-align: center;
+    position: absolute; 
+    left: 50%;
+    top: 70%;
+    transform: translateX(-50%);
+}
+a{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.hyoushi p{
+    background: #ffffff;
+    font-family: fantasy;
+    color: black;
+    border: solid 5px black;
+    border-radius: 10px;
+    font-size: 60px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+        
+}
+
+.hyoushi #a1{
+    color: aqua;
+    font-size: 45px;
+}
+
+.hyoushi #a2{
+    color: darkorange;
+    font-size: 45px;
+}
+
+.hyoushi #a3{
+    color: chartreuse;
+    font-size: 45px;
+}

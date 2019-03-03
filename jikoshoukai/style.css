@@ -1,0 +1,48 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    font-size: 100px;
+    
+}
+
+#fate{
+    width: 100%;
+    position: absolute;
+}
+
+.container{
+    position: relative;
+}
+
+.container1{
+    width: 60%;
+    
+    transform: translateX(34%);
+    position: absolute;
+    background-color: white;
+    margin-top: 350px;
+}
+
+#tammamo{
+    
+}
+
+p1{
+    font-size: 50px;
+    color: black;
+}
+p2{
+    font-size: 30px;
+}
+
+p3{
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+.content{
+    text-align: center;
+    margin-bottom: 50px;
+}
